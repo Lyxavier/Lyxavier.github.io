@@ -2,6 +2,8 @@
 
 You can use the [editor on GitHub](https://github.com/Lyxavier/Lyxavier.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
+<script src="https://kit.fontawesome.com/4d9b64ef3b.js" crossorigin="anonymous"></script>
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
